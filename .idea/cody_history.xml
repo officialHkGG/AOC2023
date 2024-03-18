@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChatHistory">
+    <chats>
+      <list>
+        <chat>
+          <accountId value="VXNlcjoxODkzOTk=" />
+          <internalId value="e4381ec0-de7b-4d73-9705-3e4851e2676f" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoxODkzOTk=" />
+          <internalId value="e730eb0e-8c19-490f-9a00-a665b53bcc66" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoxODkzOTk=" />
+          <internalId value="7485fede-aadd-4c6c-8b25-f4102afe3679" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+      </list>
+    </chats>
+  </component>
+</project>
